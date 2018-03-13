@@ -1,6 +1,6 @@
 # React Components & Libraries
 
-
+A growing list of useful Components, Tools and Libraries that I've stumbled across whilst using ReactJS. Saving it here for future reference and personal use. Feel free to check it out and contribute/fork.
 
 <br/>
 
@@ -153,7 +153,7 @@
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
- - [react-bootstrap-notifier](https://github.com/chadly/react-bs-notifier) - A react component to show [growl-like](https://github.com/marcorinck/angular-growl) notifications using bootstrap alerts. 
+ - [react-bootstrap-notifier](https://github.com/chadly/react-bs-notifier) - A react component to show [growl-like](https://github.com/marcorinck/angular-growl) notifications using bootstrap alerts.
  - [react-notification-system](https://github.com/igorprado/react-notification-system) - A complete and totally customizable component for notifications in React.
  - [react-notification](https://github.com/pburtchaell/react-notification) - Snackbar notifications for React.
  - [react-s-alert](https://github.com/juliancwirko/react-s-alert) - Alerts / Notifications for React with rich configuration options.
