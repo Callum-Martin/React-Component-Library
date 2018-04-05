@@ -216,6 +216,7 @@ A growing list of useful Components, Tools and Libraries that I've stumbled acro
  - [react-md-spinner](https://github.com/tsuyoshiwada/react-md-spinner) - Material Design spinner components for React.js.
  - [rc-progress](https://github.com/react-component/progress) - React Progress Bar.
  - [react-block-ui](https://github.com/availity/react-block-ui) - Easy way to block the user from interacting with your UI.
+ - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG component to create placeholder loading, Examples: Facebook, Instagram, Code, etc.
 
 
 ### Carousel
