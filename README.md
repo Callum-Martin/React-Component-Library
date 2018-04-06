@@ -365,6 +365,7 @@ A growing list of useful Components, Tools and Libraries that I've stumbled acro
  - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
  - [material-color-hash](https://github.com/BelkaLab/material-color-hash) - Hash strings to Material UI colors.
  - [react-facebook](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
+ - [react-twitter-widgets](https://www.npmjs.com/package/react-twitter-widgets) - Twitter embedding for React. [This](https://dev.twitter.com/web/javascript/creating-widgets) is very good docs for the component.
 
 
 
