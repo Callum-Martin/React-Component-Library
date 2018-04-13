@@ -528,6 +528,7 @@ A growing list of useful Components, Tools and Libraries that I've stumbled acro
  - [formsy-material-ui](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material-UI form components.
  - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
  - [react-widgets](https://github.com/jquense/react-widgets) - An &agrave; la carte set of polished, extensible, and accessible inputs built for React.
+ - [rc-form](https://github.com/react-component/form) - React High Order Form Component.
 
 
 #### Miscellaneous
